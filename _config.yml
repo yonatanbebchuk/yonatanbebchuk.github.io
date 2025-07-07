@@ -1,0 +1,11 @@
+remote_theme: b2a3e8/jekyll-theme-console
+title: Yonatan Bebchuk's Blog
+description: Yonatan Bebchuk's Blog
+url: "https://yonatanbebchuk.github.io"
+header_pages:
+  - index.html
+style: light
+listen_for_clients_preferred_style: true
+
+plugins:
+  - jekyll-seo-tag
